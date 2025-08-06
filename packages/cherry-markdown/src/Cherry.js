@@ -1052,8 +1052,8 @@ export default class Cherry extends CherryStatic {
   /**
    * 导出预览区域内容
    * @public
-   * @param {'pdf' | 'img' | 'markdown' | 'html'} [type='pdf']
-   * 'pdf'：导出成pdf文件; 'img'：导出成png图片; 'markdown'：导出成markdown文件; 'html'：导出成html文件;
+   * @param {'pdf' | 'img' | 'markdown' | 'html' | 'word'} [type='pdf']
+   * 'pdf'：导出成pdf文件; 'img'：导出成png图片; 'markdown'：导出成markdown文件; 'html'：导出成html文件; 'word'：导出成word文件;
    * @param {string} [fileName] 导出文件名(默认为当前第一行内容|'cherry-export')
    */
   export(type = 'pdf', fileName = '') {

@@ -77,7 +77,7 @@ export default {
   pasteMarkdown: 'Paste as Markdown',
   hide: 'Hide Toolbar',
   exportToPdf: 'Export to PDF',
-  exportScreenshot: 'Screenshot',
+  exportToWord: 'Export to Word', // Export to Word  exportScreenshot: 'Screenshot',
   exportMarkdownFile: 'Export Markdown File',
   exportHTMLFile: 'Export preview HTML File',
   heading1: 'H1 Heading',

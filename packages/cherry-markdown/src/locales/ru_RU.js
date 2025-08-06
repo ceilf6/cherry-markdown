@@ -77,7 +77,7 @@ export default {
   pasteMarkdown: 'Вставить как Markdown',
   hide: 'Скрыть панель инструментов',
   exportToPdf: 'Экспорт в формат PDF',
-  exportScreenshot: 'Скриншот',
+  exportToWord: 'Экспорт в Word', // Export to Word  exportScreenshot: 'Скриншот',
   exportMarkdownFile: 'Экспорт файла Markdown',
   exportHTMLFile: 'Экспорт предварительного просмотра HTML-файла',
   panel: 'Панель',

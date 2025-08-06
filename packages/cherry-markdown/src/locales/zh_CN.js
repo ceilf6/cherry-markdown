@@ -78,7 +78,7 @@ export default {
   pasteMarkdown: '粘贴为markdown格式', // 粘贴为markdown格式
   hide: '隐藏工具栏', // 隐藏
   exportToPdf: '导出PDF', // 导出PDF
-  exportScreenshot: '导出长图', // 导出长图
+  exportToWord: '导出Word', // 导出Word  exportScreenshot: '导出长图', // 导出长图
   exportMarkdownFile: '导出markdown', // 导出markdown文件
   exportHTMLFile: '导出html', // 导出预览区html文件
   theme: '主题', // 导出长图
