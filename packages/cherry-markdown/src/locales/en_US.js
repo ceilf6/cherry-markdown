@@ -76,10 +76,11 @@ export default {
   pastePlain: 'Paste as Plain Text',
   pasteMarkdown: 'Paste as Markdown',
   hide: 'Hide Toolbar',
-  exportToPdf: 'Export to PDF',
-  exportToWord: 'Export to Word', // Export to Word  exportScreenshot: 'Screenshot',
-  exportMarkdownFile: 'Export Markdown File',
-  exportHTMLFile: 'Export preview HTML File',
+  exportToPdf: 'Export PDF', // Export PDF
+  exportToWord: 'Export to Word', // Export to Word
+  exportScreenshot: 'Export Long Image', // Export Long Image
+  exportMarkdownFile: 'Export Markdown', // Export Markdown file
+  exportHTMLFile: 'Export HTML', // Export preview HTML file
   heading1: 'H1 Heading',
   heading2: 'H2 Heading',
   heading3: 'H3 Heading',

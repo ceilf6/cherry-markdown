@@ -76,10 +76,11 @@ export default {
   pastePlain: 'Вставить в виде обычного текста',
   pasteMarkdown: 'Вставить как Markdown',
   hide: 'Скрыть панель инструментов',
-  exportToPdf: 'Экспорт в формат PDF',
-  exportToWord: 'Экспорт в Word', // Export to Word  exportScreenshot: 'Скриншот',
-  exportMarkdownFile: 'Экспорт файла Markdown',
-  exportHTMLFile: 'Экспорт предварительного просмотра HTML-файла',
+  exportToPdf: 'Экспорт PDF', // Export PDF
+  exportToWord: 'Экспорт в Word', // Export to Word
+  exportScreenshot: 'Экспорт длинного изображения', // Export Long Image
+  exportMarkdownFile: 'Экспорт Markdown', // Export Markdown file
+  exportHTMLFile: 'Экспорт HTML', // Export preview HTML file
   panel: 'Панель',
   detail: 'Аккордеон',
   heading1: 'H1 Заголовок',
